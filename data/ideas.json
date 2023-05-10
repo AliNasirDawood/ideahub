@@ -12,6 +12,12 @@
         "tags": "to-do"
     },
     {
+        "title": "Cruise Ship survival ",
+        "description": "Basic MAachine Learning implementatin of curise ship using titanic dataset.",
+        "level": "basic",
+        "tags": "Classification"
+    },
+    {
         "title": "Snake",
         "description": "If you had a cellphone in the early 2000s, you’ve probably played Snake. It’s a simple game but you can always try to make things more complex! First, start by just trying to make the game.",
         "level": "intermediate",
